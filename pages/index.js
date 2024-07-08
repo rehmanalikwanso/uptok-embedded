@@ -8,7 +8,7 @@ export default function Home() {
       <Head>
         <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
-        <style>@import url('https://storage.googleapis.com/uptok-staging/widget/styles-embedded2.css');</style>
+        <style>@import url('https://storage.googleapis.com/uptok-staging/widget/styles-embedded.css');</style>
       </Head>
 
       <main>
@@ -66,7 +66,7 @@ export default function Home() {
         </a>
       </footer>
 
-      <Script id="uptok-bundle" type="text/javascript" mode="embedded" src="https://storage.googleapis.com/uptok-staging/widget/uptok-bundle-embedded3.js" uptokclienttoken="7fc283b7803ddd83db5192492fbbd34e:2ec7723a4f9213fa02ed8f804b5cf6d3" />
+      <Script id="uptok-bundle" type="text/javascript" mode="embedded" src="https://storage.googleapis.com/uptok-staging/widget/uptok-bundle-embedded.js" uptokclienttoken="7fc283b7803ddd83db5192492fbbd34e:2ec7723a4f9213fa02ed8f804b5cf6d3" />
 
       <style jsx>{`
         main {
